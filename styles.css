@@ -1,0 +1,53 @@
+
+body { background: #2e3830 ;
+	   color: white;
+        font-size: 14pt;
+       font-family: 		}
+		
+h1 { font-size: 200%;
+     color: #0c8e41;
+     font-family: 'Oswald', sans-serif; }
+	 
+h3 { font-size: 200%;
+     color: #c53211 ;
+	  font-family: 'oswald'}
+	 
+h5 { color: #c53211;
+     font-size: 150% }
+
+h6 { color: #0c8e41;
+     font-size: 150% }
+
+nav li {display: inline-block;
+        border: 2px solid black;
+        padding: 2px;
+        background: #0c8e41; }
+		
+main li {font-size: 14pt;
+         color: white;} 		 
+
+
+		 
+#portrait { float: left;
+            margin: 5px;
+			border: 2px solid firebrick;}	
+
+#album { Size: 50%}			
+
+#facebook { float: left;
+            margin: 5px;}
+			
+#reddit { float: left;
+          margin: 5px;}
+		  
+#youtube { float: left;
+            margin: 5px}
+			 
+			
+#steam { float: left;
+          margin: 5px;}
+		
+
+			
+a { color: white;}
+a:hover {color: black}
